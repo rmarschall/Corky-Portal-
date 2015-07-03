@@ -9,19 +9,19 @@
  
 /*** NOTE - INSERT YOUR CREDENTIAL ***/
  
-const String TWITTER_ACCESS_TOKEN = "2532622116-Y60nX3RSigcs3FM67PfAEP60nRKW8Ght6uBgFEb";
+const String TWITTER_ACCESS_TOKEN = "";
  
-const String TWITTER_ACCESS_TOKEN_SECRET = "iTXksYut7DE9p4vZmENGbMX2ge1JpUnX0iU4rG6vbSKfZ";
+const String TWITTER_ACCESS_TOKEN_SECRET = "";
  
-const String TWITTER_CONSUMER_KEY = "sFYTL8mgwMhjZKDrZjpNMMITJ";
+const String TWITTER_CONSUMER_KEY = "";
  
-const String TWITTER_CONSUMER_SECRET = "DNB7V5Ie7TjF4lWjJDIf8fNn6mWCIELZPBbkcJGHVo93JG4zX0";
+const String TWITTER_CONSUMER_SECRET = "";
  
-const String TEMBOO_ACCOUNT = "rmarschall";  // your Temboo account name
+const String TEMBOO_ACCOUNT = "";  // your Temboo account name
  
-const String TEMBOO_APP_KEY_NAME = "myFirstApp";  // your Temboo app key name
+const String TEMBOO_APP_KEY_NAME = "";  // your Temboo app key name
  
-const String TEMBOO_APP_KEY  = "eb1137a9351a4f34b7ee54a121fbbc44";  // your Temboo app key
+const String TEMBOO_APP_KEY  = "";  // your Temboo app key
 
 
 
